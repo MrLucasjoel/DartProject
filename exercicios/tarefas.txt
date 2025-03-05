@@ -1,0 +1,101 @@
+IF
+1 Escreva um programa que receba um número e use um if para verificar se ele é positivo.
+2 Faça um programa que verifica se um número é par ou ímpar.
+3 Crie um programa que verifica se uma pessoa é maior de idade com base na idade informada.
+4 Verifique se um número está dentro de um intervalo (exemplo: entre 10 e 20).
+5 Escreva um programa que leia dois números e verifique qual é o maior.
+6 Use um if para verificar se uma string contém mais de 5 caracteres.
+7 Faça um programa que leia a temperatura e diga se está frio (abaixo de 15 graus).
+8 Verifique se uma senha digitada pelo usuário está correta.
+9 Receba um número e diga se ele é divisível por 5 ou não.
+10 Crie um programa que valide se um número digitado é um ano bissexto.
+
+switche
+
+1. Crie um programa que receba um número de 1 a 7 e exiba o dia da semana correspondente.
+2. Faça um programa que identifique o mês com base em um número de 1 a 12.
+3. Escreva um programa que receba uma letra e diga se é uma vogal ou consoante usando switch.
+4. Receba uma nota (A, B, C, etc.) e mostre a descrição de desempenho correspondente.
+5. Crie um sistema que simule o menu de um restaurante, com diferentes opções.
+6. Escreva um programa que converta números de 1 a 5 para números romanos.
+7. Faça um programa que identifique o tipo de triângulo com base em uma entrada de texto.
+8. Use um switch para implementar uma calculadora com operações básicas (+, -, *, /).
+9. Receba um código de produto e exiba seu preço.
+10. Crie um programa que avalie uma nota de prova e diga se o aluno está aprovado, em recuperação ou reprovado (Aprovado: 7+).
+
+
+
+
+https://dontpad.com/bracellos
+demo.chief.delivery
+
+
+
+peça um numero ao usuario e só pare a execução do programa quando o usuário digitar 0
+Escreva um programa que some os números até que o usuário insira 0
+escreva a sequencia numerica de 1 a 100
+Mostre se um número é par ou ímpar até que o usuário digite 0
+conte quantos números foram digitados até que o usuário digite 0
+solicite numeros positivos ao usuario e calcule a média dos numeros digitados até que um numero negativo seja digitado.
+solicite um número para o usuário e verifice que o mesmo é divisivel por 3. o programa para ao digitar 0
+solicite uma senha para o usuário até que a senha correta seja digitada
+liste numeros pares de 1 a 100 e mostre a soma total
+entre 1 e 100 mostre apenas os numeros divisiveis por 4 ou 7 identificando cada um
+
+
+
+
+
+
+Use um foreach para iterar sobre um list de números e exiba cada um deles.
+Calcule a soma dos elementos de um list usando foreach.
+Use foreach para transformar um list de strings em letras maiúsculas.
+Crie um programa que multiplica cada número em um list por 2 e exiba os resultados.
+Exiba todos os elementos de uma lista com seus índices correspondentes.
+Crie um programa que filtra números pares em um list usando foreach.
+Use foreach para contar quantas palavras de um list têm mais de 5 letras.
+Itere sobre uma lista de objetos e exiba uma propriedade específica de cada objeto.
+Crie um programa que soma apenas os números positivos de um list.
+Transforme uma lista de números entre 0 e 9 retornando as letras correspondentes no alfabeto de A a J
+
+
+
+
+____________________________________________________________________________________________________________
+
+Crie uma lista com 10 números inteiros e use um for para exibir cada número no terminal.
+Percorra uma lista de 10 números inteiros e exiba apenas os números pares.
+Some todos os números de uma lista usando um for e exiba o resultado.
+Use um while para percorrer uma lista e exibir seus elementos um por um.
+Use um do while para percorrer uma lista de 5 nomes e exibi-los no terminal.
+Ordene uma lista de números aleatórios em ordem crescente e exiba no terminal.
+Multiplique todos os números de uma lista por 2 e exiba a nova lista.
+Verifique se um determinado número existe em uma lista, usando um while.
+Remova todos os elementos de uma lista usando um do while.
+Peça ao usuário 5 números e adicione-os a uma lista, depois exiba os números digitados.
+
+
+
+Crie um Map com nomes de produtos como chave e preços como valor. Use um for para exibir os produtos e seus preços.
+Percorra um Map com nomes e idades e exiba apenas os maiores de idade.
+Some todos os valores de um Map onde as chaves são produtos e os valores são preços.
+Crie um Map de alunos e notas e exiba apenas os alunos com nota acima de 7.
+Encontre um nome específico dentro de um Map e exiba sua informação.
+Multiplique todos os valores numéricos de um Map por 2 e exiba o novo Map.
+Remova todos os itens de um Map usando um do while.
+Crie um Map onde as chaves são cidades e os valores são suas populações. Exiba as cidades com mais de 100.000 habitantes.
+Conte quantos elementos existem em um Map sem usar .length.
+Inverta as chaves e valores de um Map e exiba o novo Map.
+
+
+
+Crie um Set com 5 números inteiros e use um for para exibir os números.
+Verifique se um número específico existe em um Set, usando um while.
+Remova todos os elementos de um Set usando um do while.
+Crie dois Set de números e exiba a interseção entre eles usando um for.
+Some todos os valores dentro de um Set usando um while.
+Multiplique todos os valores de um Set por 3 e exiba o novo conjunto.
+Conte quantos elementos existem em um Set sem usar .length.
+Crie um Set de palavras e remova uma palavra específica usando um do while.
+Converta um Set em uma List e ordene os valores.
+Verifique quais elementos de um Set pertencem a uma determinada lista.
